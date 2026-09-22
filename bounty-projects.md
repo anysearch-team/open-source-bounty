@@ -1,5 +1,7 @@
 # Bounty Project List
 
+[Project Claim Status | 项目认领状态](https://qcn8uvtawq91.feishu.cn/wiki/VOHxwu49cikzJrkh2yBcq4gRnq6)
+
 | # | Project | URL | Bounty |
 | :---: | :---: | :--- | :---: |
 | 1 | OpenClaw | https://github.com/openclaw/openclaw | CNY 7,500 |
