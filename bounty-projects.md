@@ -1,6 +1,6 @@
 # Bounty Project List
 
-[Project Claim Status | 项目认领状态](https://qcn8uvtawq91.feishu.cn/wiki/VOHxwu49cikzJrkh2yBcq4gRnq6)
+[Project Claim Status | 项目认领状态](https://docs.google.com/spreadsheets/d/1l4f0GZaaug7XxQN4-wPBd4VqbBXUvfS8hKWbp6QSs-0/edit?usp=sharing)
 
 | # | Project | URL | Bounty |
 | :---: | :---: | :--- | :---: |
